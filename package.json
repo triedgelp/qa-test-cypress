@@ -1,0 +1,12 @@
+{
+    "name": "automation",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "DavidRosas",
+    "devDependencies": {
+        "cypress": "^4.0.2"
+    },
+    "scripts": {
+        "cypress:open": "cypress open"
+    }
+}
